@@ -52,8 +52,8 @@ Ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Servora/servicemgtapp.git
-   cd servicemgtapp
+   git clone https://github.com/Servora/Stellar-ServiceMgt.git
+   cd Stellar-ServiceMgt
    ```
 
 2. **Install dependencies**:
